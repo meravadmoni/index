@@ -195,8 +195,7 @@ hr {
 /* Header Section */
 .intro {
 
-	max-width: 100%;
-	height:auto;
+	width: 100%;
 	padding: 0;
 	text-align: center;
 	background: url(../img/ח.jpg) 100%;
